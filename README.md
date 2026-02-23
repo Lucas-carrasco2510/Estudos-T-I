@@ -23,6 +23,6 @@ Este repositório contém os exercícios em Python e projetos que estou desenvol
 ---
 
 ## 🛠️ Tecnologias
-- **Linguagem:** Python 3
+- **Linguagem:** Python 
 - **Editor:** VS Code
 - **Controle de Versão:** Git & GitHub
