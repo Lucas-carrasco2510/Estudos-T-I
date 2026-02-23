@@ -1,4 +1,4 @@
-# Minha Jornada Python 🐍
+# Minha Jornada  🐍
 
 Este repositório contém os exercícios em Python e projetos que estou desenvolvendo durante o curso de Algoritmos.
 
