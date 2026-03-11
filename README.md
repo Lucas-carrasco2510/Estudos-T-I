@@ -8,10 +8,11 @@ Este repositório contém os exercícios em Python e projetos que estou desenvol
 ---
 
 ## 📚 Aulas Concluídas
+🚀 Aula 09
+- [x] Exercícios de **Estruturas de Repetição** (Enquanto)
 
 ### 🚀 Aula 08
 - [x] Exercícios de **Estruturas Condicionais** (Escolha Caso)
-- [x] Subida para o GitHub concluída
 
 ### 🛤️ Aula 07
 - [x] Exercícios de **Estruturas Condicionais** (Se e Senão)
