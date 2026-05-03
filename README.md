@@ -56,8 +56,7 @@ Dominar a lógica de programação e evoluir constantemente até atingir um nív
 
 ## 📌 Observações
 - Os exercícios são feitos durante as aulas e também praticados de forma independente  
-- Sempre busco entender a lógica antes de aplicar no código  
-- Utilizo ajuda pontual (quando necessário) para aprendizado, mas priorizando o raciocínio próprio  
+- Sempre busco entender a lógica antes de aplicar no código    
 
 ---
 
